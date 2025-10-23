@@ -1,0 +1,11 @@
+id,first_name,last_name,age,grade
+'1','John','Doe',18,'A'
+'2','Jane','Smith',19,'B'
+'3','Bob','Johnson',20,'C'
+'4','Emily','Williams',18,'A'
+'5','Michael','Brown',19,'B'
+'6','Samantha','Davis',22,'A'
+'7','Oliver','Jones',20,'B'
+'8','Sophia','Miller',21,'A'
+'9','Ethan','Wilson',19,'C'
+'10','Isabella','Moore',22,'B'
